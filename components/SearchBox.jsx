@@ -48,7 +48,7 @@ const SearchBox = () => {
       {/* select checkbox btn */}
       <div className='flex flex-col'>
         {/* select */}
-        <div className='flex flex-col flex-1 mb-[24px]'>
+        <div className='flex flex-col flex-1 mb-[24px] mt-5'>
           <Label>Guests</Label>
           <GuestSelect />
         </div>

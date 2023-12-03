@@ -15,10 +15,7 @@ const DatePicker = () => {
       <PopoverTrigger asChild>
         <Button
           variant={'default'}
-          className={cn(
-            'bg-yellow/5 w-full justify-between text-left font-medium',
-            !date && 'text-black'
-          )}
+          className={cn('w-full justify-between text-left font-medium', !date && 'text-black')}
         >
           {date ? format(date, 'd MMM') : <span>Pick a date</span>}
           <CalendarIcon className='mr-2 h-5 w-5 text-black' />
