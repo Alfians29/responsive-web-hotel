@@ -4,17 +4,17 @@ import CountUp from 'react-countup';
 
 const statsData = [
   {
-    value: 1.2,
+    value: 1.7,
     type: 'Hotels',
     unit: 'k',
   },
   {
-    value: 4.8,
+    value: 4.2,
     type: 'Rooms',
     unit: 'k',
   },
   {
-    value: 186,
+    value: 169,
     type: 'Countries',
     unit: null,
   },

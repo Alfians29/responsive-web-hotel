@@ -27,7 +27,7 @@ const SearchBox = () => {
         <Label htmlFor='destination'>Where are you going?</Label>
         {/* input & icon */}
         <div className='relative flex items-center mb-[20px]'>
-          <Input id='destination' placeholder='try "Singapore"' />
+          <Input id='destination' placeholder='try "Indonesia"' />
           <MapPin size={24} className='absolute right-6 text-black' />
         </div>
         {/* date picker */}

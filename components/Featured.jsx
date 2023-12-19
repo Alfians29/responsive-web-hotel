@@ -18,9 +18,8 @@ const Featured = () => {
           Book an awesome room in less than 1 minute.
         </h2>
         <p className='flex-1 text-soft_green leading-loose'>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid magnam officiis, aliquam
-          voluptatum atque dolorem vitae vel cupiditate quo commodi ea libero harum eaque
-          necessitatibus itaque.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          ut labore et dolore magna aliqua.
         </p>
       </div>
     </motion.section>

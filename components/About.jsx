@@ -40,16 +40,16 @@ const About = () => {
           >
             <h2 className='h2 mb-[38px]'>About CheckIn</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores autem vitae minus
-              tenetur aliquid officia architecto fugit rem reiciendis consequuntur, atque ea soluta
-              vero repellendus qui! Blanditiis itaque debitis ut?
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Nunc consequat interdum varius sit amet
+              mattis vulputate. Mattis ullamcorper velit sed ullamcorper.
             </p>
             {/* stats */}
             <div className='my-5 xl:my-10 min-h-[35px]'>{inView && <Stats />}</div>
             <p className='mb-10'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure saepe itaque sequi ipsam
-              voluptates eligendi ipsum, ratione libero mollitia fugiat maiores, provident
-              temporibus beatae laudantium. Libero accusamus hic fugit explicabo.
+              Ut tristique et egestas quis. Egestas quis ipsum suspendisse ultrices gravida. Id diam
+              vel quam elementum pulvinar etiam. Placerat orci nulla pellentesque dignissim enim sit
+              amet venenatis urna.
             </p>
             <Button variant='accent'>Explore More</Button>
           </motion.div>
