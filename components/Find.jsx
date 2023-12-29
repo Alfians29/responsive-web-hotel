@@ -9,12 +9,12 @@ const hotelData = [
   {
     image: '/find/hotel-1.png',
     name: 'Luxe Haven Hotel',
-    location: 'Japan',
+    location: 'Italy',
   },
   {
     image: '/find/hotel-2.png',
     name: 'Serene Harbor Inn',
-    location: 'Greece',
+    location: 'Philippines',
   },
   {
     image: '/find/hotel-3.png',
